@@ -1,8 +1,8 @@
 # Linux_Shell_Scripts
 
-This repository contains Bash shell scripting solutions for the **SE 233 (Operating Systems / Linux Lab)** course.
+This repository contains shell scripting solutions.
 
-All scripts are written and tested on a Linux environment using Bash.
+All scripts are written and tested on a Linux environment.
 
 ---
 
